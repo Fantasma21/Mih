@@ -1,6 +1,6 @@
 let currentImageIndex = 0;
 const images = [
-    'img/pc1png.png',
+    'img/mihPC.png',
     'img/mm3.png',
     'img/mm4.png',
     'img/mm5.png',
@@ -16,6 +16,10 @@ const images = [
     'img/mm16.png',
     'img/mm17.png',
     'img/mm18.png',
+    'img/mm19.png',
+    'img/mm20.png',
+    'img/mm21.png',
+    'img/mm22.png',
     // Adicione o caminho das suas outras imagens aqui
 ];
 
